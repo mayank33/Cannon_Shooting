@@ -1,0 +1,27 @@
+
+NAME - MAYANK AGRAWAL
+201303003
+
+
+1. Compile it with make command.
+2. Then do ./filename
+3. Space Bar is used to fire the lazer from the canon.
+4. Green basket is selected by the g.
+5. Red basket is selected by the r.
+6. Cannon is selected by the b.
+7. p is used to pause the system.
+8. Basket and canon can be moved left right by keys
+9. Canon can be rotated in any direction by the up down keys.
+10. Balls are generated randomly
+11. Basket and canon can be objected by the lying balls.
+12. Score is printed at the left right corner of the box.
+13. Canon will fire after 1 sec only as specified.
+14. You get  1point for i correct catching of ball.
+15. The selected object will be highlighted.
+16. Object can be selected and draged by mouse.
+17. Canon can be moved by right click.
+18. Speed will increase with time.
+19. Initial position can be given in input file.
+20. Level can be given in put file and it will increase with time.
+21. The bullet will be filled in the cannon after 1 second.
+
